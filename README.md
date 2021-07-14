@@ -1,5 +1,5 @@
 # exemplo-1975
-aula exemplo de uso do GitHub. Recursos disponiveis no **MARKDOWN**.
+aula exemplo de uso do GitHub. Recursos disponiveis no **MarkDown**.
 
 primeiro projeto explorando recursos do MARKDOWN
 
